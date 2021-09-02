@@ -1,8 +1,4 @@
-1. ```js
-2. npm i 
-3. ```
+1. ```js npm i ```
 4. 
-5. ```js
-6. npm start
-7. ```
-8. go to ```localhost:4000/graphql``` to testout queries
+5. ```js npm start```
+8. go to ```js localhost:4000/graphql``` to testout queries
